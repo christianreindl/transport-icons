@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>svg/pick up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pick-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,20 C12.5522847,20 13,20.4477153 13,21 C13,21.5522847 12.5522847,22 12,22 C11.4477153,22 11,21.5522847 11,21 C11,20.4477153 11.4477153,20 12,20 Z M12.7071068,2.79289322 L18.1642136,8.25 L16.75,9.66421356 L12.9997864,5.914 L13,16 C13,16.5522847 12.5522847,17 12,17 C11.4477153,17 11,16.5522847 11,16 L10.9997864,5.914 L7.25,9.66421356 L5.83578644,8.25 L11.2928932,2.79289322 C11.6834175,2.40236893 12.3165825,2.40236893 12.7071068,2.79289322 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

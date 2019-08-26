@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>svg/cake-alt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cake-alt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,11 C13.6568542,11 15,9.65685425 15,8 C15,6.97471358 14.1384027,5.17792667 12.4152082,2.60963927 L12.4152162,2.60963389 C12.2613575,2.38031954 11.9507344,2.31915062 11.7214201,2.47300927 C11.6674288,2.50923475 11.621021,2.55564258 11.5847955,2.60963384 C9.8615985,5.17792413 9,6.97471285 9,8 C9,9.65685425 10.3431458,11 12,11 Z" id="Oval" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M5,14 L19,14 C20.1045695,14 21,14.8954305 21,16 L21,22 L21,22 L3,22 L3,16 C3,14.8954305 3.8954305,14 5,14 Z" id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M12,8.5 L12,13.5" id="Line-16" stroke="#000000" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M3,17.5 L21,17.5" id="Line-17" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>

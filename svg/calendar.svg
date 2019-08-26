@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>svg/calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.5,2 L9.5,4 L14.5,4 L14.5,2 L16.5,2 L16.5,4 L19,4 C20.1045695,4 21,4.8954305 21,6 L21,20 C21,21.1045695 20.1045695,22 19,22 L5,22 C3.8954305,22 3,21.1045695 3,20 L3,6 C3,4.8954305 3.8954305,4 5,4 L7.5,4 L7.5,2 L9.5,2 Z M19,10.5 L5,10.5 L5,20 L19,20 L19,10.5 Z M19,6 L5,6 L5,8.5 L19,8.5 L19,6 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

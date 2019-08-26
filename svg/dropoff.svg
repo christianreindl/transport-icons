@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>svg/dropoff</title>
+    <desc>Created with Sketch.</desc>
+    <g id="dropoff" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,20 C12.5522847,20 13,20.4477153 13,21 C13,21.5522847 12.5522847,22 12,22 C11.4477153,22 11,21.5522847 11,21 C11,20.4477153 11.4477153,20 12,20 Z M13,1.5 L12.9997864,13.085 L16.75,9.33578644 L18.1642136,10.75 L12.7071068,16.2071068 C12.3165825,16.5976311 11.6834175,16.5976311 11.2928932,16.2071068 L5.83578644,10.75 L7.25,9.33578644 L10.9997864,13.085 L11,1.5 L13,1.5 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

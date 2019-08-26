@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>svg/file</title>
+    <desc>Created with Sketch.</desc>
+    <g id="file" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.500000, 2.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M11.1715729,0 C11.9672223,0 12.7302841,0.316070521 13.2928932,0.878679656 L17.1213203,4.70710678 C17.6839295,5.26971592 18,6.03277766 18,6.82842712 L18,18 L20.5,18 L20.5,20 L0.5,20 L0.5,18 L3,18 L3,1 C3,0.44771525 3.44771525,0 4,0 L11.1715729,0 Z M11.0143379,1.99886968 L5,2 L5,18 L16,18 L16.0008118,6.9855262 C15.9323139,6.99511237 15.8628555,7 15.7928932,7 L12,7 C11.4477153,7 11,6.55228475 11,6 L11,2.20710678 C11,2.13644682 11.0048858,2.06692799 11.0143379,1.99886968 Z M10.5,13.5 L10.5,15.5 L7.5,15.5 L7.5,13.5 L10.5,13.5 Z M13.5,10 L13.5,12 L7.5,12 L7.5,10 L13.5,10 Z M13,3.41421356 L13,5 L14.5857864,5 L13,3.41421356 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
