@@ -1,2 +1,4 @@
 # transport-icons
-77 Transport-themed Icons
+
+This icon set contains over 70 transport-themed and utility icons.
+
